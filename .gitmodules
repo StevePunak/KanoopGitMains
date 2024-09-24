@@ -1,0 +1,12 @@
+[submodule "KanoopGit"]
+	path = KanoopGit
+	url = git@github.com:StevePunak/KanoopGit.git
+[submodule "KanoopCommonQt"]
+	path = KanoopCommonQt
+	url = git@github.com:StevePunak/KanoopCommonQt.git
+[submodule "KanoopQtGui"]
+	path = KanoopQtGui
+	url = git@github.com:StevePunak/KanoopQtGui.git
+[submodule "libgit2qt"]
+	path = libgit2qt
+	url = git@github.com:StevePunak/libgit2qt.git
