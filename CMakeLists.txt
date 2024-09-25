@@ -11,7 +11,8 @@ project(${MAIN_PROJ} VERSION 1.0.0 LANGUAGES CXX)
 
 # Add all submodules for this specific project
 add_subdirectory(libgit2)
-add_subdirectory(KanoopCommonQt)
-add_subdirectory(libgit2qt)
-add_subdirectory(KanoopQtGui)
-add_subdirectory(KanoopGit)
+add_subdirectory(KTest)
+# add_subdirectory(KanoopCommonQt)
+# add_subdirectory(libgit2qt)
+# add_subdirectory(KanoopQtGui)
+# add_subdirectory(KanoopGit)
