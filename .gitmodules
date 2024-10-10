@@ -13,3 +13,6 @@
 [submodule "libgit2"]
 	path = libgit2
 	url = https://github.com/libgit2/libgit2.git
+[submodule "Git2QtTests"]
+	path = Git2QtTests
+	url = git@github.com:StevePunak/Git2QtTests.git
